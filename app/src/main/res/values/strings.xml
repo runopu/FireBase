@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Show Up</string>
+    <string name="sign_up_text">Are you not registered ? Sign up</string>
+    <string name="sign_in_text">Are you already registered ? Sign in</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+</resources>
